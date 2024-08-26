@@ -8,7 +8,7 @@
 
 <a href="https://skyline.github.com/Bright-Chengliang/"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Bright-Chengliang&show_icons=true&theme=buefy"></a>
 
-- 🏛 I’m currently a M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
-- 🔬 Doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
-- 📚 Dedicating myself to **Robotics** & **Deep Learning**, specifically to **Dexterous Grasping** and its applications in real world.
-- 📫 Feel free to contact me: cl.liu1@siat.ac.cn
+- 🏛 I’m currently a PhD student in [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
+- 🔬 Doing my research in [Department of Computing, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/).
+- 📚 Dedicating myself to **RAG on Graphs**.
+- 📫 Feel free to contact me: cl.liu99@foxmail.com
