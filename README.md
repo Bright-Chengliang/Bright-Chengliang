@@ -13,8 +13,10 @@ I build systems that turn research ideas into measurable, reproducible workflows
 
 ## Selected Projects
 
-- [Light-Chat](https://github.com/Bright-Chengliang/Light-Chat) - A local-first multi-user AI chat workspace with conversation branches, model routing, custom roles, multimodal workflows, and an Android client. [Live demo](https://chat.brightcl.top)
-- [QuickSSH](https://github.com/Bright-Chengliang/QuickSSH) - An Android SSH client for coding-agent workflows, with file-path handoff, workspace cards, SFTP, and SSH tunnel access to remote localhost services.
+The two tools below are part of the engineering layer around my research workflow: Light-Chat supports model- and agent-based work, while QuickSSH keeps remote coding-agent sessions usable from a phone.
+
+- [Light-Chat](https://github.com/Bright-Chengliang/Light-Chat) - A local-first AI workspace for multimodal research tasks, reusable roles, model routing, and packaged workflows, with an Android client. [Live demo](https://chat.brightcl.top)
+- [QuickSSH](https://github.com/Bright-Chengliang/QuickSSH) - An Android SSH workspace for persistent coding-agent sessions, file transfer, and automatic remote-path insertion into terminal prompts.
 - [Personal homepage](https://bright-chengliang.github.io/) - Research interests, publications, and background.
 
 ## Research
