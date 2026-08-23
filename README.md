@@ -1,14 +1,26 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bright-Chengliang&right_color=green) 
-![followers](https://img.shields.io/github/followers/Bright-Chengliang?label=followers&style=social)
-<a href="https://Bright-Chengliang.github.io/"> <img src="https://img.shields.io/badge/-homepage-critical?style=plastic&logo=homeadvisor&logoColor=white" height="20px" alt="Homepage"> </a>
-<a href="https://scholar.google.com/citations?user=Ic4yrzQAAAAJ"> <img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="20px"> </a>
-<a href="https://english.cas.cn/"> <img align="right" width="7%" src="https://s2.loli.net/2022/07/10/aL2kXUMGBApfm7J.png" > </a>
+# Chengliang Liu
 
-### Hi there, I'm Chengliang Liu 👋
+PhD researcher at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working at the intersection of **LLM evaluation, agent engineering, and reliable AI systems**.
 
-<a href="https://skyline.github.com/Bright-Chengliang/"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Bright-Chengliang&show_icons=true&theme=buefy"></a>
+I build systems that turn research ideas into measurable, reproducible workflows: evaluating model and agent failure modes, designing multi-agent tooling, and making long-running AI tasks easier to inspect and recover.
 
-- 🏛 I’m currently a PhD student in [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
-- 🔬 Doing my research in [Department of Computing, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/).
-- 📚 Dedicating myself to **RAG on Graphs**.
-- 📫 Feel free to contact me: cl.liu99@foxmail.com
+## Focus
+
+- LLM and RAG evaluation
+- Agent orchestration and workflow reliability
+- Long-running coding agents and tool-using systems
+- Full-stack AI products and developer tools
+
+## Selected Projects
+
+- [Light-Chat](https://github.com/Bright-Chengliang/Light-Chat) - A local-first multi-user AI chat workspace with conversation branches, model routing, custom roles, multimodal workflows, and an Android client. [Live demo](https://chat.brightcl.top)
+- [QuickSSH](https://github.com/Bright-Chengliang/QuickSSH) - An Android SSH client for coding-agent workflows, with file-path handoff, workspace cards, SFTP, and SSH tunnel access to remote localhost services.
+- [Personal homepage](https://bright-chengliang.github.io/) - Research interests, publications, and background.
+
+## Research
+
+My research and publications are listed on my [homepage](https://bright-chengliang.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=Ic4yrzQAAAAJ).
+
+## Contact
+
+- Email: `cl.liu99@foxmail.com`
