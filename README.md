@@ -8,7 +8,7 @@ My research focuses on how to make LLM and agentic systems scalable, reliable, a
 
 - **Generative Recommendation & RecAgents**: Long-horizon user interaction modeling, scalable agent memory architectures, and decision-making over long interaction sequences.
 - **Agent Memory & Reasoning**: Latent memory compression, structured retrieval mechanisms, and reinforcement learning with step-wise feedback signals.
-- **Inference Efficiency & Systems**: Representation probing, early-detection proxies, and cost-amplification dynamics across retrieval-augmented generation and tool-using agents.
+- **Inference Efficiency & Systems**: Representation probing, early-detection proxies, and robustness evaluation across retrieval-augmented generation and tool-using systems.
 
 ## Selected Research Highlights
 
